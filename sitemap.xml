@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jieyang-wei.github.io/2020/12/14/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</loc>
+    <loc>https://jieyang-wei.github.io/2020/12/14/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
     
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2020-12-15</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jieyang-wei.github.io/2020/12/14/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
+    <loc>https://jieyang-wei.github.io/2020/12/14/gdb%E8%B0%83%E8%AF%95/</loc>
     
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2020-12-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jieyang-wei.github.io/2020/12/14/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</loc>
+    
+    <lastmod>2020-12-15</lastmod>
     
   </url>
   
@@ -24,13 +31,6 @@
   
   <url>
     <loc>https://jieyang-wei.github.io/categories/index.html</loc>
-    
-    <lastmod>2020-12-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jieyang-wei.github.io/2020/12/14/gdb%E8%B0%83%E8%AF%95/</loc>
     
     <lastmod>2020-12-14</lastmod>
     
