@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jieyang-wei.github.io/2020/12/14/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
+    <loc>https://jieyang-wei.github.io/2020/12/14/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</loc>
     
     <lastmod>2020-12-14</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jieyang-wei.github.io/2020/12/14/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</loc>
+    <loc>https://jieyang-wei.github.io/2020/12/14/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
     
     <lastmod>2020-12-14</lastmod>
     
@@ -53,36 +53,36 @@
 
   <url>
     <loc>https://jieyang-wei.github.io/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://jieyang-wei.github.io/tags/hello-world/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <loc>https://jieyang-wei.github.io/tags/linux/</loc>
+    <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jieyang-wei.github.io/tags/linux/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <loc>https://jieyang-wei.github.io/tags/hello-world/</loc>
+    <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jieyang-wei.github.io/tags/BTC/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jieyang-wei.github.io/tags/git/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -91,14 +91,14 @@
   
   <url>
     <loc>https://jieyang-wei.github.io/categories/course/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jieyang-wei.github.io/categories/notebook/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
