@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jieyang-wei.github.io/2020/12/14/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
+    <loc>https://jieyang-wei.github.io/2020/12/17/ruby/</loc>
     
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2020-12-17</lastmod>
     
   </url>
   
   <url>
     <loc>https://jieyang-wei.github.io/2020/12/15/python/</loc>
     
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2020-12-17</lastmod>
     
   </url>
   
   <url>
     <loc>https://jieyang-wei.github.io/2020/12/16/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2020-12-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jieyang-wei.github.io/2020/12/14/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
     
     <lastmod>2020-12-16</lastmod>
     
@@ -67,50 +74,57 @@
 
   <url>
     <loc>https://jieyang-wei.github.io/</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2020-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://jieyang-wei.github.io/tags/hello-world/</loc>
-    <lastmod>2020-12-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jieyang-wei.github.io/tags/linux/</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2020-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jieyang-wei.github.io/tags/BTC/</loc>
-    <lastmod>2020-12-16</lastmod>
+    <loc>https://jieyang-wei.github.io/tags/hello-world/</loc>
+    <lastmod>2020-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jieyang-wei.github.io/tags/rugy/</loc>
+    <lastmod>2020-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jieyang-wei.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2020-12-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jieyang-wei.github.io/tags/BTC/</loc>
+    <lastmod>2020-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jieyang-wei.github.io/tags/git/</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2020-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jieyang-wei.github.io/tags/python/</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2020-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -119,14 +133,14 @@
   
   <url>
     <loc>https://jieyang-wei.github.io/categories/course/</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2020-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jieyang-wei.github.io/categories/notebook/</loc>
-    <lastmod>2020-12-16</lastmod>
+    <lastmod>2020-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
