@@ -228,13 +228,6 @@
   </url>
   
   <url>
-    <loc>https://jieyang-wei.github.io/tags/socket/</loc>
-    <lastmod>2021-04-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jieyang-wei.github.io/tags/fabric/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
@@ -243,6 +236,13 @@
   
   <url>
     <loc>https://jieyang-wei.github.io/tags/blockchain/</loc>
+    <lastmod>2021-04-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jieyang-wei.github.io/tags/socket/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -263,14 +263,14 @@
   </url>
   
   <url>
-    <loc>https://jieyang-wei.github.io/tags/hello-world/</loc>
+    <loc>https://jieyang-wei.github.io/tags/rugy/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jieyang-wei.github.io/tags/rugy/</loc>
+    <loc>https://jieyang-wei.github.io/tags/hello-world/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -377,14 +377,14 @@
   </url>
   
   <url>
-    <loc>https://jieyang-wei.github.io/categories/Course/Network/</loc>
+    <loc>https://jieyang-wei.github.io/categories/course/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jieyang-wei.github.io/categories/course/</loc>
+    <loc>https://jieyang-wei.github.io/categories/Course/Network/</loc>
     <lastmod>2021-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
